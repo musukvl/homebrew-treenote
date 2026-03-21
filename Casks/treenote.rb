@@ -1,11 +1,11 @@
 cask "treenote" do
-  version "0.0.0"
-  sha256 :no_check
+	version "1.0.3"
+	sha256 "31f577495c376a113abe0d3ae83235a10d9e76b02edbccf0456f4d80db7dfa8c"
 
-  url "https://github.com/musuk/treenote/releases/download/v#{version}/TreeNote-#{version}.dmg"
-  name "TreeNote"
-  desc "Hierarchical notes management application"
-  homepage "https://github.com/musuk/treenote"
+	url "https://github.com/musukvl/treenote/releases/download/v#{version}/TreeNote-#{version}.dmg"
+	name "TreeNote"
+	desc "Hierarchical notes management application"
+	homepage "https://github.com/musukvl/treenote"
 
-  app "TreeNote.app"
+	app "TreeNote.app"
 end
