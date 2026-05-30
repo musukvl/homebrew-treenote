@@ -1,6 +1,6 @@
 cask "treenote" do
-	version "1.0.3"
-	sha256 "31f577495c376a113abe0d3ae83235a10d9e76b02edbccf0456f4d80db7dfa8c"
+	version "1.0.4"
+	sha256 "06ad4208da620e09d5c7f77f3104147a2b824628fe22e3bcd6d7f5f8cccf2f33"
 
 	url "https://github.com/musukvl/treenote/releases/download/v#{version}/TreeNote-#{version}.dmg"
 	name "TreeNote"
