@@ -5,7 +5,7 @@ Homebrew tap for TreeNote.
 ## Install
 
 ```bash
-brew tap musuk/treenote
+brew tap musukvl/treenote
 brew install --cask treenote
 ```
 
